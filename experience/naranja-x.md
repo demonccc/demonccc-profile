@@ -4,7 +4,6 @@
 id: exp-naranja-x-engineering-leader
 type: experience
 organization: naranja-x
-seniority: engineering-leader
 period:
   from: 2019-10
   to: 2021-08
