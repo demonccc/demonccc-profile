@@ -58,4 +58,14 @@ Capabilities are claims supported by experience, projects, deep dives, stories a
 - Home Assistant, ESP32/ESPHome and MQTT
 - Raspberry Pi and Linux-based multimedia systems
 
+## Career as Code & Knowledge Modeling
+
+- Career as Code concept and professional knowledge modeling
+- Human-readable and AI-readable information architecture
+- Specification and schema design
+- Versioned professional knowledge with Git
+- Open-source developer-tooling design
+
+**Evidence:** [Trayector](../projects/trayector.md)
+
 This index will keep evolving as each capability is linked to stronger inspectable evidence rather than expanded as a keyword inventory.
