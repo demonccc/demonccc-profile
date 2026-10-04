@@ -24,8 +24,23 @@ A résumé, LinkedIn profile, portfolio or interview can be generated from or in
 - [`deep-dives/`](deep-dives/) — detailed architecture and engineering case studies
 - [`projects/`](projects/) — personal, open-source, lab and other projects
 - [`stories/`](stories/) — cross-cutting career stories, decisions, failures and lessons learned
-- [`content/`](content/) — canonical versions of posts, articles and talks
+- [`content/`](content/) — canonical professional content using a single bundle format
+- [`settings.yaml`](settings.yaml) — profile-owned language and classification vocabulary
 - [`generated/`](generated/) — machine-generated indexes and derived artifacts
+
+## Content convention
+
+Every content item uses the same structure. Whether it is a LinkedIn post, an article, a note or another kind of professional content is expressed through metadata, not through different folders.
+
+```text
+content/
+└── <date>-<slug>/
+    ├── content.<language-code>.md
+    └── assets/
+        └── [optional files]
+```
+
+The language code and the available classifications are defined in [`settings.yaml`](settings.yaml), so both humans and AI systems can resolve their meaning by reading the repository itself.
 
 ## How this repository models a career
 
