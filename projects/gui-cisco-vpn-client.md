@@ -1,5 +1,3 @@
-# GUI for the Cisco VPN Client
-
 ---
 id: project-gui-cisco-vpn-client
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - networking
   - open-source
 ---
+
+# GUI for the Cisco VPN Client
 
 ## Overview & Motivation
 
