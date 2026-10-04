@@ -1,5 +1,3 @@
-# Bstriker
-
 ---
 id: exp-bstriker-infrastructure-engineer
 type: experience
@@ -28,6 +26,8 @@ related:
   deep_dives: []
   projects: []
 ---
+
+# Bstriker
 
 ## Mission & Context
 
