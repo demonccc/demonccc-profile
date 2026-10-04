@@ -1,5 +1,3 @@
-# Raspberry Pi Multimedia Lab
-
 ---
 id: project-raspberry-pi-multimedia-lab
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - networking
   - systems-integration
 ---
+
+# Raspberry Pi Multimedia Lab
 
 ## Overview & Motivation
 
