@@ -10,18 +10,8 @@ topics:
 publications:
   - channel: linkedin
     url: https://lnkd.in/p/dx46ySqH
-hashtags:
-  - TechLeadership
-  - AIArchitecture
-  - SoftwareEngineering
-  - ITStrategy
-  - IA
-related:
-  - type: source
-    title: "Forbes Argentina — Los CEOs se arrepienten de la IA: están cambiando su discurso sobre inteligencia artificial y trabajo"
-    url: https://www.forbesargentina.com/liderazgo/los-ceos-arrepienten-ia-estan-cambiando-su-discurso-sobre-inteligencia-artificial-trabajo-n91742
-  - type: content
-    path: ../2026-05-29-la-ia-no-elimino-la-ingenieria/
+related_content:
+  - ../2026-05-29-la-ia-no-elimino-la-ingenieria/
 ---
 
 # La IA no eliminó la ingeniería. La volvió más importante.
