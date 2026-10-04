@@ -52,30 +52,34 @@ First Globant period, focused on Linux operations, infrastructure support, incid
 
 ### Nimbuzz — DevOps / Unix Administrator
 
-**01/2011 – 07/2013**
+**01/2011 – 07/2013**  
+[Experience](../experience/nimbuzz.md)
 
-High-availability Linux infrastructure and early DevOps automation. Detailed experience pending migration.
+High-availability Linux infrastructure, early Infrastructure as Code, CI/CD, observability and distributed systems.
 
 ### EDS / Hewlett-Packard — Unix Administrator
 
-**10/2007 – 01/2011**
+**10/2007 – 01/2011**  
+[Experience](../experience/eds-hewlett-packard.md)
 
-One continuous employment period: HP acquired EDS; the role and operational work continued while the company name changed. Detailed experience pending migration.
+One continuous employment period across the EDS acquisition by HP, focused on enterprise Unix operations, incident management and Root Cause Analysis.
 
 ### SANTEX América — Programmer
 
-**05/2007 – 10/2007**
+**05/2007 – 10/2007**  
+[Experience](../experience/santex-america.md)
 
-Web development plus Linux technical support. Detailed experience pending migration.
+Web development plus Linux technical support.
 
 ### MANA S.A. — Technician Leader
 
-**07/2002 – 07/2005**
+**07/2002 – 07/2005**  
+[Experience](../experience/mana-sa.md)
 
-Team/resource management, Windows/Linux support, software development, networking and hardware support. Detailed experience pending migration.
+Early technical leadership combining team/resource management, Windows/Linux support, software development, networking and hardware support.
 
 ## Parallel independent work
 
 Freelance work was performed during multiple periods alongside formal employment. It started in the early career, continued intermittently through the first year at Santander, stopped when management responsibilities made it impractical, and has resumed in the current period.
 
-This is intentionally not represented as one uninterrupted twenty-year employment period. Individual freelance projects will be modeled with their own dates and evidence as they are migrated.
+This is intentionally not represented as one uninterrupted employment period. Individual freelance projects are modeled with their own dates, context and evidence.
