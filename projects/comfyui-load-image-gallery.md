@@ -1,5 +1,3 @@
-# ComfyUI Load Image Gallery
-
 ---
 id: project-comfyui-load-image-gallery
 type: project
@@ -12,6 +10,8 @@ capabilities:
   - frontend
   - developer-experience
 ---
+
+# ComfyUI Load Image Gallery
 
 ## Overview & Motivation
 
