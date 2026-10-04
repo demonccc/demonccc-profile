@@ -9,11 +9,6 @@ topics:
 publications:
   - channel: linkedin
     url: https://lnkd.in/p/duRUXTnU
-hashtags:
-  - Hiring
-  - TechCareers
-  - Leadership
-  - Recruiting
 ---
 
 # What a CV Does Not Show
