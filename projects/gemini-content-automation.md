@@ -1,5 +1,3 @@
-# Gemini Content Automation
-
 ---
 id: project-gemini-content-automation
 type: project
@@ -12,6 +10,8 @@ capabilities:
   - python
   - api-integration
 ---
+
+# Gemini Content Automation
 
 ## Overview & Motivation
 
