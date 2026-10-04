@@ -1,5 +1,3 @@
-# Portable Ubuntu Remix
-
 ---
 id: project-portable-ubuntu-remix
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - desktop-integration
   - troubleshooting
 ---
+
+# Portable Ubuntu Remix
 
 ## Overview & Motivation
 
