@@ -1,5 +1,3 @@
-# Chef & Open-Source Infrastructure Automation
-
 ---
 id: project-chef-open-source-automation
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - ruby
   - open-source
 ---
+
+# Chef & Open-Source Infrastructure Automation
 
 ## Overview & Motivation
 
