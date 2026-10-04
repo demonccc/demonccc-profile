@@ -4,7 +4,6 @@
 id: exp-nimbuzz-devops-unix
 type: experience
 organization: nimbuzz
-seniority: engineer
 period:
   from: 2011-01
   to: 2013-07
@@ -27,8 +26,8 @@ contribution:
 related:
   deep_dives: []
   projects:
-    - ../projects/lnxdellrepo2deb.md
-    - ../projects/chef-open-source-automation.md
+    - project-lnxdellrepo2deb
+    - project-chef-open-source-automation
 ---
 
 ## Mission & Context
