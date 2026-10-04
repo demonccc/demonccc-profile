@@ -1,5 +1,3 @@
-# intive
-
 ---
 id: exp-intive-staff-solutions-architect
 type: experience
@@ -29,6 +27,8 @@ related:
   deep_dives: []
   projects: []
 ---
+
+# intive
 
 ## Mission & Context
 
