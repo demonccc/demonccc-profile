@@ -1,5 +1,3 @@
-# MANA S.A.
-
 ---
 id: exp-mana-technician-leader
 type: experience
@@ -25,6 +23,8 @@ related:
   deep_dives: []
   projects: []
 ---
+
+# MANA S.A.
 
 ## Mission & Context
 
