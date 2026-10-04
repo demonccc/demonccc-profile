@@ -10,11 +10,6 @@ topics:
 publications:
   - channel: linkedin
     url: https://lnkd.in/p/dwbTwUp5
-hashtags:
-  - IA
-  - ContinuousImprovement
-  - MejoraContinua
-  - KAIZEN
 ---
 
 # Fallar rápido no es aprender
