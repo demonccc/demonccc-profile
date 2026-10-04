@@ -4,7 +4,6 @@
 id: exp-santex-america-programmer
 type: experience
 organization: santex-america
-seniority: engineer
 period:
   from: 2007-05
   to: 2007-10
