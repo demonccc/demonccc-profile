@@ -4,7 +4,6 @@
 id: exp-bstriker-infrastructure-engineer
 type: experience
 organization: bstriker
-seniority: engineer
 period:
   from: 2014-06
   to: 2015-03
