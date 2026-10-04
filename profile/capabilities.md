@@ -1,43 +1,61 @@
 # Capabilities
 
-This document is an index of capabilities demonstrated across professional experience, personal projects, technical deep dives and published content.
+Capabilities are claims supported by experience, projects, deep dives, stories and other evidence. Job titles provide context but are not the capability model.
 
-A capability should not be treated as proven merely because it appears in a job title or skills list. Each entry should eventually point to concrete evidence.
+## Architecture & Platform Engineering
 
-> Status: initial capability map. Evidence links will be added as the career content is migrated.
+- Cloud architecture across AWS, Azure and GCP
+- Platform Engineering and Internal Developer Platforms
+- Event-Driven Architecture and Serverless systems
+- High availability, resilience and operational design
+- Hybrid and on-premise integration
 
-## Cloud Architecture
+## DevOps, Delivery & Automation
 
-Evidence to be linked from professional experience and deep dives.
+- CI/CD and deployment architecture
+- Infrastructure as Code and configuration automation
+- GitOps and Kubernetes platform delivery
+- SDLC governance, traceability and regulated delivery
+- Developer Experience and self-service engineering
 
-## Platform Engineering
+## Cloud Operations & Reliability
 
-Evidence to be linked from professional experience, internal developer platform work and related projects.
-
-## DevOps & Delivery Engineering
-
-Evidence to be linked from CI/CD, automation, governance and platform initiatives.
-
-## Kubernetes & Container Platforms
-
-Evidence to be linked from EKS, OpenShift/ROSA and related platform work.
-
-## Quality Engineering
-
-Evidence to be linked from QA leadership, automation and engineering-quality initiatives.
+- Linux and Unix systems engineering
+- Observability, monitoring and logging
+- Incident management and Root Cause Analysis
+- Capacity planning and production operations
+- FinOps and cloud cost optimization
 
 ## Engineering Leadership
 
-Evidence to be linked from team leadership, architecture governance, mentoring and organizational transformation.
+- Technical strategy and architecture leadership
+- Multidisciplinary team leadership and mentoring
+- Engineering standards and governance
+- Technical consulting and pre-sales
+- Translation between business priorities and engineering execution
 
-## Generative AI
+## Software & Open Source Engineering
 
-Evidence to be linked from applied GenAI work, AI architecture and personal projects.
+- Python, Go, JavaScript/Node.js, C/C++, PHP, Ruby and Shell
+- Open-source project creation and contribution
+- Linux packaging, system integration and infrastructure tooling
+- Reusable automation and platform components
 
-## Observability & Reliability
+## AI & Multimodal Systems
 
-Evidence to be linked from production architecture, monitoring, operational practices and hardening work.
+- Generative AI integration and engineering strategy
+- LLM and VLM inference with open-weight models
+- Quantized model runtimes, GGUF and GPU/VRAM optimization
+- Agent workflows and tool calling
+- ComfyUI workflow and custom-node engineering
+- Image, video and multimodal experimentation
 
-## Next step
+## Networking, Embedded Systems & IoT
 
-As experience documents are created, each capability will reference explicit evidence rather than duplicating its narrative here.
+- OpenWrt and custom embedded firmware
+- Wireless mesh networking with B.A.T.M.A.N.
+- VLAN segmentation, firewalls and local-first networking
+- Home Assistant, ESP32/ESPHome and MQTT
+- Raspberry Pi and Linux-based multimedia systems
+
+This index will keep evolving as each capability is linked to stronger inspectable evidence rather than expanded as a keyword inventory.
