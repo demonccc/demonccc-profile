@@ -1,5 +1,3 @@
-# Local LLM & GPU Inference Lab
-
 ---
 id: project-local-llm-gpu-inference-lab
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - model-quantization
   - runtime-engineering
 ---
+
+# Local LLM & GPU Inference Lab
 
 ## Overview & Motivation
 
