@@ -1,5 +1,3 @@
-# Legacy RM/COBOL Cloud Modernization
-
 ---
 id: project-legacy-rm-cobol-cloud-modernization
 type: project
@@ -12,6 +10,8 @@ capabilities:
   - systems-integration
   - troubleshooting
 ---
+
+# Legacy RM/COBOL Cloud Modernization
 
 ## Overview & Motivation
 
