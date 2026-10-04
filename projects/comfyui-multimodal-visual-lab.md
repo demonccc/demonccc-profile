@@ -1,5 +1,3 @@
-# ComfyUI Multimodal Visual Lab
-
 ---
 id: project-comfyui-multimodal-visual-lab
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - gpu-inference
   - workflow-engineering
 ---
+
+# ComfyUI Multimodal Visual Lab
 
 ## Overview & Motivation
 
