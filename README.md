@@ -19,11 +19,12 @@ A résumé, LinkedIn profile, portfolio or interview can be generated from or in
 - [`profile/summary.md`](profile/summary.md) — current professional summary
 - [`profile/career-timeline.md`](profile/career-timeline.md) — chronological view of the career
 - [`profile/capabilities.md`](profile/capabilities.md) — capabilities and their supporting evidence
-- [`profile/education.md`](profile/education.md) — education and formal learning
-- [`experience/`](experience/) — professional experience, split by organization and meaningful role/seniority changes
+- [`profile/education.md`](profile/education.md) — education, certifications and formal learning
+- [`experience/`](experience/) — professional experience by coherent employment or engagement period
+- [`projects/`](projects/) — personal, open-source, lab, research and other projects
 - [`deep-dives/`](deep-dives/) — detailed architecture and engineering case studies
-- [`projects/`](projects/) — personal, open-source, lab and other projects
 - [`stories/`](stories/) — cross-cutting career stories, decisions, failures and lessons learned
+- [`feedback/`](feedback/) — recommendations and testimonials received from people I worked with
 - [`content/`](content/) — canonical professional content using a single bundle format
 - [`settings.yaml`](settings.yaml) — profile-owned language and classification vocabulary
 - [`generated/`](generated/) — machine-generated indexes and derived artifacts
@@ -65,17 +66,20 @@ Outcome
 
 This matters because capability does not always match a formal title. A manager can design an architecture. An individual contributor can lead a transformation. A personal project can demonstrate knowledge that never appeared in a job description.
 
+Feedback is intentionally separate from technical evidence. Recommendations can provide useful external perspective about leadership, collaboration, judgment and working style, but they do not prove a technical capability by themselves.
+
 ## Machine-readable entry point
 
 [`profile.json`](profile.json) provides the entry point for tools, parsers and AI systems.
 
-The human-readable Markdown remains canonical for the narrative content; structured metadata provides navigation and relationships without duplicating the entire career in JSON.
+The human-readable Markdown remains canonical for narrative content; structured metadata provides stable identifiers, navigation and relationships without duplicating the entire career in JSON.
 
 ## Specification
 
 This repository follows **Trayector v0.1**.
 
 - [Trayector](https://github.com/demonccc/trayector)
+- [Trayector as a project in this profile](projects/trayector.md)
 - [Getting started](https://github.com/demonccc/trayector/blob/main/docs/getting-started.md)
 - [Specification](https://github.com/demonccc/trayector/tree/main/spec)
 - [Templates](https://github.com/demonccc/trayector/tree/main/templates)
@@ -84,4 +88,6 @@ Templates and schemas intentionally live in Trayector rather than being duplicat
 
 ## Status
 
-The repository structure has been migrated to Trayector v0.1. Career content will be added progressively and used to validate and evolve the specification against a real, long-running technology career.
+The repository structure and the first canonical career baseline have been migrated to Trayector v0.1. Experience, education, projects, feedback and published content are now represented as independent knowledge areas that can keep evolving without being constrained by résumé length.
+
+Additional projects, deep dives, stories and evidence can be added incrementally as more source material is recovered or new work is created.
