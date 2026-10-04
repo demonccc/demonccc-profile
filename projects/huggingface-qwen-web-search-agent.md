@@ -1,5 +1,3 @@
-# Qwen Web-Search Agent on Hugging Face
-
 ---
 id: project-huggingface-qwen-web-search-agent
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - tool-calling
   - python
 ---
+
+# Qwen Web-Search Agent on Hugging Face
 
 ## Overview & Motivation
 
