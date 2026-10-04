@@ -1,5 +1,3 @@
-# Home Assistant Local-First IoT
-
 ---
 id: project-home-assistant-local-first-iot
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - security
   - automation
 ---
+
+# Home Assistant Local-First IoT
 
 ## Overview & Motivation
 
