@@ -1,5 +1,3 @@
-# Santander Tecnología Argentina
-
 ---
 id: exp-santander-tecnologia-argentina
 type: experience
@@ -32,6 +30,8 @@ related:
   deep_dives: []
   projects: []
 ---
+
+# Santander Tecnología Argentina
 
 ## Mission & Context
 
