@@ -1,5 +1,3 @@
-# Nimbuzz
-
 ---
 id: exp-nimbuzz-devops-unix
 type: experience
@@ -29,6 +27,8 @@ related:
     - project-lnxdellrepo2deb
     - project-chef-open-source-automation
 ---
+
+# Nimbuzz
 
 ## Mission & Context
 
