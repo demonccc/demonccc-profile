@@ -1,5 +1,3 @@
-# ComfyUI-QwenVL
-
 ---
 id: project-comfyui-qwenvl
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - gpu-inference
   - comfyui
 ---
+
+# ComfyUI-QwenVL
 
 ## Overview & Motivation
 
