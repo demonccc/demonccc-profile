@@ -1,5 +1,3 @@
-# SANTEX América
-
 ---
 id: exp-santex-america-programmer
 type: experience
@@ -22,6 +20,8 @@ related:
   deep_dives: []
   projects: []
 ---
+
+# SANTEX América
 
 ## Mission & Context
 
