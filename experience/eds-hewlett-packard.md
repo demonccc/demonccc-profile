@@ -4,7 +4,6 @@
 id: exp-eds-hp-unix-administrator
 type: experience
 organization: eds-hewlett-packard
-seniority: engineer
 period:
   from: 2007-10
   to: 2011-01
@@ -24,8 +23,8 @@ contribution:
 related:
   deep_dives: []
   projects:
-    - ../projects/portable-ubuntu-remix.md
-    - ../projects/gui-cisco-vpn-client.md
+    - project-portable-ubuntu-remix
+    - project-gui-cisco-vpn-client
 ---
 
 ## Mission & Context
@@ -43,12 +42,7 @@ The work focused on enterprise Unix infrastructure and global operations, includ
 - Administered storage and clustering technologies including LVM, Veritas Volume Manager and Veritas Cluster Server.
 - Worked with remote hardware-management interfaces such as HP iLO, Sun OpenBoot PROM and Dell DRAC.
 - Supported infrastructure services such as DNS and LDAP.
-- Supported development teams on Linux and Subversion when required.
-
-## Corporate Transition
-
-The EDS to HP acquisition required corporate transition and training, but it did not represent a real change of job or professional scope. It is therefore modeled as one experience.
 
 ## Tech Stack & Methods
 
-HP-UX, AIX, Solaris, Red Hat Linux, Veritas Cluster Server, Veritas Volume Manager, LVM, NFS, BIND, OpenLDAP, Nagios, iLO, OBP, DRAC, Subversion, ITIL-style operations, incident management and Root Cause Analysis.
+HP-UX, AIX, Solaris, Red Hat Linux, LVM, Veritas Volume Manager, Veritas Cluster Server, DNS, LDAP, ITIL, incident management, change management and Root Cause Analysis.
