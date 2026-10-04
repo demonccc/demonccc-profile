@@ -4,7 +4,6 @@
 id: exp-mana-technician-leader
 type: experience
 organization: mana-sa
-seniority: team-lead
 period:
   from: 2002-07
   to: 2005-07
