@@ -4,7 +4,6 @@
 id: exp-santander-tecnologia-argentina
 type: experience
 organization: santander-tecnologia-argentina
-seniority: senior-manager
 period:
   from: 2021-09
   to: 2026-02
