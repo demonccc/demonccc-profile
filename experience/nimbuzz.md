@@ -2,7 +2,7 @@
 
 ---
 id: exp-nimbuzz-devops-unix
- type: experience
+type: experience
 organization: nimbuzz
 seniority: engineer
 period:
