@@ -1,6 +1,6 @@
 # Projects
 
-Personal, open-source, lab and experimental projects are first-class career evidence when they demonstrate relevant knowledge or capability.
+Personal, open-source, lab, research and freelance projects are first-class career evidence when they demonstrate relevant knowledge or capability.
 
 Projects documented here may or may not have a public repository. The important part is to make the motivation, implementation, contribution, decisions and demonstrated capabilities inspectable.
 
@@ -16,9 +16,16 @@ Projects documented here may or may not have a public repository. The important 
 
 ## Research & Hands-on Labs
 
+- [Local LLM & GPU Inference Lab](local-llm-gpu-inference-lab.md)
 - [ComfyUI Multimodal Visual Lab](comfyui-multimodal-visual-lab.md)
 - [Qwen Web-Search Agent on Hugging Face](huggingface-qwen-web-search-agent.md)
+- [Gemini Content Automation](gemini-content-automation.md)
 - [OpenWrt Wireless Mesh & Custom Firmware](openwrt-wireless-mesh.md)
 - [Home Assistant Local-First IoT](home-assistant-local-first-iot.md)
+- [Raspberry Pi Multimedia Lab](raspberry-pi-multimedia-lab.md)
+
+## Freelance & Independent Delivery
+
+- [Legacy RM/COBOL Cloud Modernization](legacy-rm-cobol-cloud-modernization.md)
 
 This index contains the projects already migrated into the canonical profile. Additional projects can be added incrementally as source material is reviewed.
