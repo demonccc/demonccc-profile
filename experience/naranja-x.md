@@ -1,5 +1,3 @@
-# Naranja X
-
 ---
 id: exp-naranja-x-engineering-leader
 type: experience
@@ -29,6 +27,8 @@ related:
   deep_dives: []
   projects: []
 ---
+
+# Naranja X
 
 ## Mission & Context
 
