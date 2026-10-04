@@ -4,7 +4,6 @@
 id: exp-intive-staff-solutions-architect
 type: experience
 organization: intive
-seniority: staff
 period:
   from: 2026-03
   to: present
