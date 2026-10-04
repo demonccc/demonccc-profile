@@ -2,6 +2,8 @@
 
 Personal, open-source, lab, research and freelance projects are first-class career evidence when they demonstrate relevant knowledge or capability.
 
+Each project document uses YAML front matter as its first block and has a stable `id` for machine-readable relationships. The narrative remains readable without Trayector-specific tooling.
+
 Projects documented here may or may not have a public repository. The important part is to make the motivation, implementation, contribution, decisions and demonstrated capabilities inspectable.
 
 ## Open Source
