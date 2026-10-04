@@ -1,5 +1,3 @@
-# lnxDellRepo2deb
-
 ---
 id: project-lnxdellrepo2deb
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - hardware-management
   - shell-scripting
 ---
+
+# lnxDellRepo2deb
 
 ## Overview & Motivation
 
