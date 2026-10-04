@@ -1,5 +1,3 @@
-# Trayector
-
 ---
 id: project-trayector
 type: project
@@ -14,6 +12,8 @@ capabilities:
   - developer-tooling
   - open-source
 ---
+
+# Trayector
 
 ## Overview & Motivation
 
