@@ -15,4 +15,17 @@ When a company appears more than once as genuinely separate employment periods, 
 
 Corporate renaming or acquisition without a real employment/role change does not create an artificial new experience. EDS → Hewlett-Packard is treated as one continuous employment period.
 
-Freelance activity is non-continuous and often parallel to formal employment. It should be reconstructed through dated projects rather than modeled as one uninterrupted job.
+Freelance activity is non-continuous and often parallel to formal employment. It is reconstructed through dated projects rather than modeled as one uninterrupted job.
+
+## Current canonical experience set
+
+- [intive](intive.md)
+- [Santander Tecnología Argentina](santander-tecnologia-argentina.md)
+- [Naranja X](naranja-x.md)
+- [Globant — 2015–2019](globant-2015-2019.md)
+- [Bstriker](bstriker.md)
+- [Globant — 2013–2014](globant-2013-2014.md)
+- [Nimbuzz](nimbuzz.md)
+- [EDS / Hewlett-Packard](eds-hewlett-packard.md)
+- [SANTEX América](santex-america.md)
+- [MANA S.A.](mana-sa.md)
