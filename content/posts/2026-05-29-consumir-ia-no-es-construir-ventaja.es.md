@@ -11,9 +11,7 @@ publications:
   - channel: linkedin
     url: https://lnkd.in/p/dwrv_8nM
 related_content:
-  - type: article
-    channel: medium
-    url: https://medium.com/@demonccc/la-ia-no-elimin%C3%B3-la-ingenier%C3%ADa-la-volvi%C3%B3-m%C3%A1s-importante-b1788b1370fb
+  - ../articles/2026-05-29-la-ia-no-elimino-la-ingenieria/article.es.md
 ---
 
 # Consumir IA no es lo mismo que construir una ventaja competitiva con IA
