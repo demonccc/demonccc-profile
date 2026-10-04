@@ -1,5 +1,3 @@
-# OpenWrt Wireless Mesh & Custom Firmware
-
 ---
 id: project-openwrt-wireless-mesh
 type: project
@@ -13,6 +11,8 @@ capabilities:
   - firmware
   - wireless
 ---
+
+# OpenWrt Wireless Mesh & Custom Firmware
 
 ## Overview & Motivation
 
