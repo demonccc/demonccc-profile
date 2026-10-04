@@ -20,6 +20,8 @@ hashtags:
 
 # T-Shape * IA = Square-Shape: La evolución del Seniority
 
+![T-Shape multiplied by AI evolving into a Square-Shape professional profile](assets/square-shape-seniority.jpg)
+
 Los perfiles profesionales en IT siempre fueron moldeados por la forma en que la industria organizó sus metodologías de trabajo y sus tecnologías.
 
 Primero llegó la era de los silos (infraestructura física, metodologías en cascada y procesos rígidos), que necesitaba perfiles I-Shaped: especialistas con profundidad absoluta en un único dominio, enfocados en ejecutar tareas de manera estricta y aislada.
