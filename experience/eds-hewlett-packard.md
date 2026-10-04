@@ -1,5 +1,3 @@
-# EDS / Hewlett-Packard
-
 ---
 id: exp-eds-hp-unix-administrator
 type: experience
@@ -26,6 +24,8 @@ related:
     - project-portable-ubuntu-remix
     - project-gui-cisco-vpn-client
 ---
+
+# EDS / Hewlett-Packard
 
 ## Mission & Context
 
