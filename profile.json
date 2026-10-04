@@ -1,0 +1,20 @@
+{
+  "trayector_version": "0.1",
+  "profile": {
+    "name": "Claudio Sánchez",
+    "headline": "Cloud Architecture, Platform Engineering, DevOps, Quality Engineering and Generative AI",
+    "location": "Córdoba, Argentina"
+  },
+  "navigation": {
+    "summary": "profile/summary.md",
+    "timeline": "profile/career-timeline.md",
+    "capabilities": "profile/capabilities.md",
+    "education": "profile/education.md",
+    "experience": "experience/",
+    "deep_dives": "deep-dives/",
+    "projects": "projects/",
+    "stories": "stories/",
+    "content": "content/",
+    "generated": "generated/"
+  }
+}
