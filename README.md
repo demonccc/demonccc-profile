@@ -1,93 +1,89 @@
-# Claudio Sánchez — Career Profile
+# Claudio Sánchez
 
-A structured, versioned record of professional experience, technical knowledge, projects, decisions, ideas and evidence.
+Cloud Architecture, Platform Engineering, DevOps, Quality Engineering and Generative AI.
 
-This repository is a **reference implementation of [Trayector](https://github.com/demonccc/trayector) v0.1**, an open implementation of **Career as Code**.
+I have worked across hands-on engineering, architecture and technical leadership roles, with a recurring focus on building platforms, improving delivery systems, modernizing infrastructure and making engineering work more reliable, observable and scalable.
 
-> A job title provides context. Evidence demonstrates capability.
+My career has not followed a single specialization. I have moved between systems engineering, cloud, DevOps, platform architecture, engineering leadership, quality, observability, open source and applied AI while continuing to build and experiment outside formal job boundaries.
 
-## What lives here
+## Current Focus
 
-This repository is not intended to be a résumé stored in Git.
+- Cloud and platform architecture
+- Platform Engineering and Internal Developer Platforms
+- AWS and Kubernetes ecosystems
+- DevOps, delivery and engineering governance
+- Generative AI applied to engineering workflows
+- Technical leadership and organizational transformation
 
-It is the source of truth for a broader professional history: what I worked on, what I designed, what I built, what I led, what I learned, what I would do differently, and the evidence behind those claims.
+## Explore My Career
 
-A résumé, LinkedIn profile, portfolio or interview can be generated from or informed by this repository, but none of them is the repository itself.
+- [Professional summary](profile/summary.md)
+- [Career timeline](profile/career-timeline.md)
+- [Capabilities and supporting evidence](profile/capabilities.md)
+- [Professional experience](experience/)
+- [Projects and open-source work](projects/)
+- [Deep dives](deep-dives/)
+- [Career stories and lessons learned](stories/)
+- [Recommendations and testimonials](feedback/)
+- [Professional content](content/)
+- [Education and certifications](profile/education.md)
 
-## Navigate
+## Selected Projects & Evidence
 
-- [`profile/summary.md`](profile/summary.md) — current professional summary
-- [`profile/career-timeline.md`](profile/career-timeline.md) — chronological view of the career
-- [`profile/capabilities.md`](profile/capabilities.md) — capabilities and their supporting evidence
-- [`profile/education.md`](profile/education.md) — education, certifications and formal learning
-- [`experience/`](experience/) — professional experience by coherent employment or engagement period
-- [`projects/`](projects/) — personal, open-source, lab, research and other projects
-- [`deep-dives/`](deep-dives/) — detailed architecture and engineering case studies
-- [`stories/`](stories/) — cross-cutting career stories, decisions, failures and lessons learned
-- [`feedback/`](feedback/) — recommendations and testimonials received from people I worked with
-- [`content/`](content/) — canonical professional content using a single bundle format
-- [`settings.yaml`](settings.yaml) — profile-owned language and classification vocabulary
-- [`generated/`](generated/) — machine-generated indexes and derived artifacts
+### [Trayector](projects/trayector.md)
+An open implementation of Career as Code: a structured, versioned model for representing professional knowledge in a way that remains readable by both people and machines.
 
-## Content convention
+### [ComfyUI-QwenVL](projects/comfyui-qwenvl.md)
+Open-source multimodal AI integration for running Qwen vision-language models inside ComfyUI workflows, including memory-conscious execution on consumer hardware.
 
-Every content item uses the same structure. Whether it is a LinkedIn post, an article, a note or another kind of professional content is expressed through metadata, not through different folders.
+### [Local LLM & GPU Inference Lab](projects/local-llm-gpu-inference-lab.md)
+Hands-on research into open-weight models, GGUF quantization, llama.cpp, CUDA, PyTorch, GPU memory constraints and local/cloud inference trade-offs.
 
-```text
-content/
-└── <date>-<slug>/
-    ├── content.<language-code>.md
-    └── assets/
-        └── [optional files]
-```
+### [OpenWrt Wireless Mesh & Custom Firmware](projects/openwrt-wireless-mesh.md)
+Long-running networking and embedded systems lab using OpenWrt, B.A.T.M.A.N. Advanced, roaming protocols, custom firmware and real hardware.
 
-The language code and the available classifications are defined in [`settings.yaml`](settings.yaml), so both humans and AI systems can resolve their meaning by reading the repository itself.
+### [Portable Ubuntu Remix](projects/portable-ubuntu-remix.md)
+An early open-source project that integrated Ubuntu, CoLinux, Xming and PulseAudio to run a complete Linux environment alongside Windows without conventional virtualization.
 
-## How this repository models a career
+### [Legacy RM/COBOL Cloud Modernization](projects/legacy-rm-cobol-cloud-modernization.md)
+Freelance modernization of a legacy SCO Unix / RM-COBOL environment onto newer infrastructure while preserving the existing business application.
 
-Trayector separates concepts that traditional résumés often collapse together:
+## Career Snapshot
 
-```text
-Role
-  → provides context
+- **2026 – Present:** intive — Staff Solutions Architect, AWS & Platform Engineering
+- **2021 – 2026:** Santander Tecnología Argentina — DevOps leadership, QA, Developer Productivity and Strategic Integration Architecture
+- **2019 – 2021:** Naranja X — Engineering Leader / Cloud Solution Architect
+- **2015 – 2019:** Globant — Subject Matter Expert / CloudOps & DevOps Leader
+- **2014 – 2015:** Bstriker — Infrastructure Engineer / DevOps / Unix Administrator
+- **2013 – 2014:** Globant — DevOps / Unix Administrator
+- **2011 – 2013:** Nimbuzz — DevOps / Unix Administrator
+- **2007 – 2011:** EDS / Hewlett-Packard — Unix Administrator
+- **2007:** SANTEX América — Programmer
+- **2002 – 2005:** MANA S.A. — Technician Leader
 
-Contribution
-  → what I actually did
+See the full [career timeline](profile/career-timeline.md) for context and links to each experience.
 
-Capability
-  → what that work demonstrates
+## Professional Content
 
-Evidence
-  → where the claim can be inspected
+I also use this repository to preserve professional writing and ideas independently from the platform where they were published.
 
-Outcome
-  → what changed as a result
-```
+Selected topics include:
 
-This matters because capability does not always match a formal title. A manager can design an architecture. An individual contributor can lead a transformation. A personal project can demonstrate knowledge that never appeared in a job description.
+- hiring and professional capability;
+- engineering seniority and AI;
+- AI architecture and operating cost;
+- software engineering judgment;
+- continuous improvement and organizational learning.
 
-Feedback is intentionally separate from technical evidence. Recommendations can provide useful external perspective about leadership, collaboration, judgment and working style, but they do not prove a technical capability by themselves.
+Browse the [content index](content/).
 
-## Machine-readable entry point
+## Feedback
 
-[`profile.json`](profile.json) provides the entry point for tools, parsers and AI systems.
+Recommendations and testimonials from people I worked with are kept separately from technical evidence. They provide external context about leadership, collaboration, judgment and working style.
 
-The human-readable Markdown remains canonical for narrative content; structured metadata provides stable identifiers, navigation and relationships without duplicating the entire career in JSON.
+Browse [professional feedback](feedback/).
 
-## Specification
+## Machine-Readable Profile
 
-This repository follows **Trayector v0.1**.
+[`profile.json`](profile.json) is the machine-readable entry point for tools and AI systems.
 
-- [Trayector](https://github.com/demonccc/trayector)
-- [Trayector as a project in this profile](projects/trayector.md)
-- [Getting started](https://github.com/demonccc/trayector/blob/main/docs/getting-started.md)
-- [Specification](https://github.com/demonccc/trayector/tree/main/spec)
-- [Templates](https://github.com/demonccc/trayector/tree/main/templates)
-
-Templates and schemas intentionally live in Trayector rather than being duplicated here.
-
-## Status
-
-The repository structure and the first canonical career baseline have been migrated to Trayector v0.1. Experience, education, projects, feedback and published content are now represented as independent knowledge areas that can keep evolving without being constrained by résumé length.
-
-Additional projects, deep dives, stories and evidence can be added incrementally as more source material is recovered or new work is created.
