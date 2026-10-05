@@ -23,7 +23,7 @@ AI agents working with this repository should start with `profile.json`, then fo
 
 The repository includes [`.github/workflows/update-trayector.yml`](.github/workflows/update-trayector.yml).
 
-The update is manual: the repository owner chooses when to run it.
+The update is manual: the repository owner chooses when to run it. There is no scheduled update.
 
 The workflow compares the previously accepted Trayector baseline, the current local `.trayector/` customizations, and the selected new Trayector upstream version. It then opens a pull request with the proposed update.
 
