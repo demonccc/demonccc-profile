@@ -1,5 +1,9 @@
 {
   "trayector_version": "0.1",
+  "trayector": {
+    "instructions": ".trayector/README.md",
+    "profile_kit_version": ".trayector/VERSION"
+  },
   "profile": {
     "name": "Claudio Sánchez",
     "headline": "Cloud Architecture, Platform Engineering, DevOps, Quality Engineering and Generative AI",
