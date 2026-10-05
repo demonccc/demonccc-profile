@@ -19,7 +19,7 @@ The canonical career knowledge lives in the linked profile, experience, project,
 
 Those files may be customized for this profile. Local instructions are therefore not disposable generated files and must not be overwritten blindly by a framework update.
 
-`VERSION` records the semantic Profile Kit version. `REF` records the immutable Trayector release tag used as the upstream baseline. This profile currently targets `v0.1.0` / `0.1.0`.
+`VERSION` records the semantic Profile Kit version. `REF` records the immutable Trayector release tag used as the upstream baseline. This profile targets `v0.1.0` / `0.1.0`.
 
 AI agents working with this repository should start with `profile.json`, then follow the `trayector.instructions` path before generating or modifying derived views.
 
