@@ -5,16 +5,26 @@ This career profile follows **Trayector v0.1**, an open implementation of **Care
 - Specification: https://github.com/demonccc/trayector
 - Machine-readable entry point: [`profile.json`](profile.json)
 - Profile-owned vocabulary: [`settings.yaml`](settings.yaml)
-- Synced AI/profile instructions: [`.trayector/README.md`](.trayector/README.md)
+- Local AI/profile instructions: [`.trayector/README.md`](.trayector/README.md)
 
-The repository README is intentionally a human-facing profile index. Trayector-specific modeling and generation instructions live in the managed `.trayector/` Profile Kit.
+The repository README is intentionally a human-facing profile index.
 
 The canonical career knowledge lives in the linked profile, experience, project, deep-dive, story, feedback and content documents. `README.md`, tailored résumés and PDFs are derived views of that knowledge.
+
+## Local Trayector instructions
+
+`.trayector/` contains the local Trayector Profile Kit used by AI agents and profile tooling.
+
+Those files may be customized for this profile. Local instructions are therefore not disposable generated files and must not be overwritten blindly by a framework update.
+
+AI agents working with this repository should start with `profile.json`, then follow the `trayector.instructions` path before generating or modifying derived views.
 
 ## Updating Trayector instructions
 
 The repository includes [`.github/workflows/update-trayector.yml`](.github/workflows/update-trayector.yml).
 
-It checks `demonccc/trayector@main` for changes to the upstream `profile-kit/`. When the managed instructions change, the workflow updates `.trayector/` on a dedicated branch and opens a pull request for review instead of changing the profile silently.
+The update is manual: the repository owner chooses when to run it.
 
-AI agents working with this repository should start with `profile.json`, then follow the `trayector.instructions` path before generating or modifying derived views.
+The workflow compares the previously accepted Trayector baseline, the current local `.trayector/` customizations, and the selected new Trayector upstream version. It then opens a pull request with the proposed update.
+
+Non-conflicting local changes are preserved. If the same instruction changed both locally and upstream and cannot be reconciled safely, the local file is kept, the incoming candidate is attached to the update PR under `.trayector/.update/`, and the conflict must be resolved manually before merge.
