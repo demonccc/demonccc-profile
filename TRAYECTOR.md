@@ -7,7 +7,6 @@ This career profile follows **Trayector v0.1**, an open implementation of **Care
 - Profile-owned vocabulary: [`settings.yaml`](settings.yaml)
 - Local AI/profile instructions: [`.trayector/README.md`](.trayector/README.md)
 - Local Profile Kit version: [`.trayector/VERSION`](.trayector/VERSION)
-- Trayector release baseline: [`.trayector/REF`](.trayector/REF)
 
 The repository README is intentionally a human-facing profile index.
 
@@ -19,7 +18,7 @@ The canonical career knowledge lives in the linked profile, experience, project,
 
 Those files may be customized for this profile. Local instructions are therefore not disposable generated files and must not be overwritten blindly by a framework update.
 
-`VERSION` records the semantic Profile Kit version. `REF` records the immutable Trayector release tag used as the upstream baseline. This profile targets `v0.1.0` / `0.1.0`.
+`VERSION` records the Profile Kit version and identifies the immutable Trayector release baseline by convention: version `0.1.0` maps to tag `v0.1.0`.
 
 AI agents working with this repository should start with `profile.json`, then follow the `trayector.instructions` path before generating or modifying derived views.
 
@@ -27,8 +26,8 @@ AI agents working with this repository should start with `profile.json`, then fo
 
 The repository includes [`.github/workflows/update-trayector.yml`](.github/workflows/update-trayector.yml).
 
-The update is manual: the repository owner chooses when to run it and explicitly selects a Trayector release tag. There is no scheduled update and updates do not follow `main`.
+The update is manual: the repository owner chooses when to run it and explicitly selects a Trayector version. There is no scheduled update and updates do not follow `main`.
 
-The workflow compares the previously accepted release from `.trayector/REF`, the current local `.trayector/` customizations, and the selected new Trayector release tag. It then opens a pull request with the proposed update.
+The workflow derives the current and target release tags from `.trayector/VERSION` and the selected target version, compares that upstream history with the current local `.trayector/` customizations, and opens a pull request with the proposed update.
 
 Non-conflicting local changes are preserved. If the same instruction changed both locally and upstream and cannot be reconciled safely, the local file is kept, the incoming candidate is attached to the update PR under `.trayector/.update/`, and the conflict must be resolved manually before merge.
