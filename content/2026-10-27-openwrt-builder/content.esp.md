@@ -8,8 +8,8 @@ topics:
   - build-automation
   - open-source
 related_projects:
-  - ../../../projects/openwrt-builder.md
-  - ../../../projects/openwrt-wireless-mesh.md
+  - ../../projects/openwrt-builder.md
+  - ../../projects/openwrt-wireless-mesh.md
 publications:
   - channel: medium
     url: https://medium.com/@demonccc/de-una-necesidad-personal-a-una-herramienta-para-la-comunidad-openwrt-builder-f87d34ae5418
