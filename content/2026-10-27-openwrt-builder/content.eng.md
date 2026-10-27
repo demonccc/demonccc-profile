@@ -8,10 +8,9 @@ topics:
   - build-automation
   - open-source
 related_projects:
-  - ../../../projects/openwrt-builder.md
-  - ../../../projects/openwrt-wireless-mesh.md
-publications:
-  []
+  - ../../projects/openwrt-builder.md
+  - ../../projects/openwrt-wireless-mesh.md
+publications: []
 ---
 
 # From a Personal Need to a Community Tool: OpenWrt Builder
