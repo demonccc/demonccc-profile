@@ -1,6 +1,6 @@
 ---
 classification: article
-status: published
+status: draft
 topics:
   - openwrt
   - embedded-linux
